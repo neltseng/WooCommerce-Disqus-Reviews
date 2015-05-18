@@ -7,18 +7,18 @@ WooCommerce Disqus Reviews
 
 [使用]
 
-    下載主檔並安裝此程式
-    開啟 /wp-content/woocommerce-disqus-reviews/disqus-reviews.php
-    移至第32行
-    將 Your_Disqus_Shortcode 替換成你所建立的 Disqus 網站名稱 (https://disqus.com/admin/create/)
+* 下載主檔並安裝此程式
+* 開啟 /wp-content/woocommerce-disqus-reviews/disqus-reviews.php
+* 移至第32行
+* 將 Your_Disqus_Shortcode 替換成你所建立的 Disqus 網站名稱 (https://disqus.com/admin/create/)
 
 [其它]
 
-    解決 Disqus 與 WooCommerce 評論功能的衝突
-    能和 Disqus 外掛並存
-    不需另外安裝 Disqus 外掛也能獨立運作
-    訪客的留言不會寫入資料庫
-    所有留言集中在 Disqus 的 Moderate 管理介面 (https://disqus.com/admin/moderate/)
+* 解決 Disqus 與 WooCommerce 評論功能的衝突
+* 能和 Disqus 外掛並存
+* 不需另外安裝 Disqus 外掛也能獨立運作
+* 訪客的留言不會寫入資料庫
+* 所有留言集中在 Disqus 的 Moderate 管理介面 (https://disqus.com/admin/moderate/)
 
 [作者]
 
