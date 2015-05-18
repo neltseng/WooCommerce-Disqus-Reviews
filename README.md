@@ -1,4 +1,4 @@
-# WooCommerce-Disqus-Reviews
+# WooCommerce Disqus Reviews
 
 ![123](https://cloud.githubusercontent.com/assets/6985904/7675605/eb080660-fd6c-11e4-9cee-2c8915da5373.png)
 
@@ -17,3 +17,7 @@
 * 不需另外安裝 Disqus 外掛也能獨立運作
 * 訪客的留言不會寫入資料庫
 * 所有留言集中在 Disqus 的 [Moderate 管理介面](https://disqus.com/admin/moderate/)
+
+## 作者
+Nel Tseng<br>
+[Website](https://cloudwp.pro/)
