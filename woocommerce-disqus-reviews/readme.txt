@@ -12,8 +12,8 @@ WooCommerce Disqus Reviews
 * 開啟 woocommerce-disqus-reviews/disqus-reviews.php
 * 移至第32行
 * 將 Your_Disqus_Shortcode 替換成你所建立的 Disqus 網站名稱 (https://disqus.com/admin/create/)
-* 1.壓縮資料夾 'woocommerce-disqus-reviews' 並安裝此腳本
-* 2.或直接上傳將資料夾至`wp-content/plugins` 後再啟用
+* 1.壓縮資料夾 woocommerce-disqus-reviews 並安裝此腳本
+* 2.或直接上傳將資料夾至 wp-content/plugins 後再啟用
 
 [其它]
 
