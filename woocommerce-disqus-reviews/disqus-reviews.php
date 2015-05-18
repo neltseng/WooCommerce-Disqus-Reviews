@@ -20,7 +20,7 @@ function cwp_custom_tab($tabs) {
 
 function cwp_woo_disqus_tab($tabs) {
     
-    $tabs['disqus_tab'] = array('title' => __('評論') , 'priority' => 10, 'callback' => 'cwp_woo_disqus_tab_content');
+    $tabs['disqus_tab'] = array('title' => __('留言') , 'priority' => 50, 'callback' => 'cwp_woo_disqus_tab_content');
     
     return $tabs;
 }
