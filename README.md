@@ -18,6 +18,5 @@
 * 訪客的留言不會寫入資料庫
 * 所有留言集中在 Disqus 的 [Moderate 管理介面](https://disqus.com/admin/moderate/)
 
-## 作者
-Nel Tseng<br>
+## 關於我
 [Website](https://cloudwp.pro/)
