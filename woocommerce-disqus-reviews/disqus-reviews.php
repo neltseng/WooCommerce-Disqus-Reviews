@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WooCommerce Disqus Reviews
-Plugin URI: http://git.io/vTtps
+Plugin URI: http://git.io/vTtps/
 Description: Replace the WooCommerce Reviews with Disqus.
 Version: 1.0
-Author: Nel
-Author URI: https://cloudwp.pro
+Author: Nel Tseng
+Author URI: https://cloudwp.pro/
 */
 
 add_filter('woocommerce_product_tabs', 'cwp_custom_tab', 98);
