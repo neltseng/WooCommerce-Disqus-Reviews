@@ -1,6 +1,6 @@
 # WooCommerce Disqus Reviews
 
-![123](https://cloud.githubusercontent.com/assets/6985904/7675605/eb080660-fd6c-11e4-9cee-2c8915da5373.png)
+![123](https://cloud.githubusercontent.com/assets/6985904/7678584/e2dfacd4-fd87-11e4-99fd-c5fc9a56ee08.png)
 
 ## 說明
 利用 Disqus 替換 WooCommerce 內建的評論功能，使用前請先至 [Disqus](https://disqus.com/admin/create/) 新增你的網站
