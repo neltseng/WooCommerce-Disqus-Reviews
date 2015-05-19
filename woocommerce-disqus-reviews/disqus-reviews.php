@@ -3,7 +3,7 @@
 Plugin Name: WooCommerce Disqus Reviews
 Plugin URI: http://git.io/vTtps/
 Description: Replace the WooCommerce Reviews with Disqus.
-Version: 1.0
+Version: 1.01
 Author: Nel Tseng
 Author URI: https://cloudwp.pro/
 */
@@ -28,7 +28,7 @@ function cwp_woo_disqus_tab($tabs) {
 function cwp_woo_disqus_tab_content() {
     
     echo '<div id="disqus_thread"></div>
-    <script type="text/javascript">
+    <script type="text/javascript" defer>
       var disqus_shortname = "Your_Disqus_Shortcode";  // 替換你的 Disqus 名稱
   
       (function() {
